@@ -11,4 +11,5 @@ Designer Matt D Smith shared a Dribble shot of a clever new form interaction pat
 Check out: http://bradfrostweb.com/blog/post/float-label-pattern/
 
 ## Implementation
-This repository is an example created by travislaynewilson http://bootsnipp.com/snippets/featured/float-label-pattern-forms
+This implementation is a variation of the implementation created by [travislaynewilson](http://bootsnipp.com/snippets/featured/float-label-pattern-forms)
+
